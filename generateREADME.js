@@ -6,9 +6,9 @@ function generateReadMe(answers) {
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
-  - [License](#liscense)
+  - [License](#License)
   - [Contributing](#contributing)
-  - [Tests](#test)
+  - [Tests](#tests)
   - [Questions](#questions)
 
   ## Description: 
