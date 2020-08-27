@@ -1,4 +1,4 @@
-# ReadMe Generator
+# asdf
 
   Table of Contents:
 
@@ -10,19 +10,19 @@
   Tests
   Questions
 
-  Description: It generates a read me with promt questions where the user enters their information just as I am doing right now.
+  Description: asdf
   
-  Installation: All of them at all times
+  Installation: asdf
 
-  Usage: Be very very careful, it's rabbit season
+  Usage: asdf
 
-  License: ![License](https://img.shields.io/badge/License-Apache-blue.svg "License Badge")
+  License: ![License](https://img.shields.io/badge/License-GPL-blue.svg "License Badge")
 
-  Contributing: just make sure there are no big changes
+  Contributing: asdf
 
-  Tests: flight simulator
+  Tests: asdf
 
-  Questions: If you have any questions please email me at: scottdouglas238@gmail.com
-  Feel free to check out my GitHub at: scottdouglas238
+  Questions: If you have any questions please email me at: asdf
+  Feel free to check out my GitHub at: asdf
 
   
