@@ -10,19 +10,19 @@
   Tests
   Questions
 
-  Description: asdf
+  // Description: ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
   
   Installation: asdf
 
-  Usage: adsf
+  Usage: asdf
 
-  License: ![MIT](https://img.shields.io/apm/l/readme?style=plastic)
+  License: [License](https://opensource.org/licenses/MIT)
 
-  Contributing: adsf
+  Contributing: asdf
 
-  Tests: asdf
+  Tests: adsf
 
   Questions: If you have any questions please email me at: adsf
-  Feel free to check out my GitHub at: asdf
+  Feel free to check out my GitHub at: asdlfjk
 
   

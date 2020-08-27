@@ -11,13 +11,13 @@ function generateReadMe(answers) {
   Tests
   Questions
 
-  Description: ${answers.description}
+  // Description: ![License](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
   
   Installation: ${answers.installation}
 
   Usage: ${answers.usage}
 
-  License: ${answers.license}
+  License: [License](https://opensource.org/licenses/${answers.license})
 
   Contributing: ${answers.constributing}
 
