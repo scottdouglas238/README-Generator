@@ -33,7 +33,7 @@ function promptUser() {
         type: "checkbox",
         name: "license",
         message: "What kind of license should your project have?",
-        choices: ["MIT", "Apache", "GPL", "Apache 2"]
+        choices: ["![MIT](https://img.shields.io/apm/l/readme?style=plastic)", "Apache", "GPL", "Apache 2"]
     },
     {
         type: "input",
