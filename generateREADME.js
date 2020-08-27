@@ -1,27 +1,27 @@
 function generateReadMe(answers) {
   return `# ${answers.title}
 
-  Table of Contents:
+  # Table of Contents:
 
-  Description
-  Installation
-  Usage
-  License
-  Contributing
-  Tests
-  Questions
+  [Description](#description)
+  [Installation](#installation)
+  [Usage](#usage)
+  [License](#liscense)
+  [Contributing](#contributing)
+  [Tests](#test)
+  [Questions](#questions)
 
-  Description: ${answers.description}
+  ##Description: ${answers.description}
   
-  Installation: ${answers.installation}
+  ##Installation: ${answers.installation}
 
-  Usage: ${answers.usage}
+  ##Usage: ${answers.usage}
 
-  License: ![License](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
+  ##License: ![License](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
 
-  Contributing: ${answers.constributing}
+  ##Contributing: ${answers.constributing}
 
-  Tests: ${answers.tests}
+  ##Tests: ${answers.tests}
 
   Questions: If you have any questions please email me at: ${answers.email}
   Feel free to check out my GitHub at: ${answers.username}

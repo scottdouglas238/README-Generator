@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/scottdouglas238/README-Generator#readme",
   "dependencies": {
+    "@hapi/hapi": "^20.0.0",
     "hapi": "^18.1.0",
     "inquirer": "^7.3.3"
   }
