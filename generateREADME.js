@@ -1,6 +1,8 @@
 function generateReadMe(answers) {
   return `# ${answers.title}
 
+  ![License](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
+
   # Table of Contents:
 
   - [Description](#description)
@@ -21,7 +23,9 @@ function generateReadMe(answers) {
   > ${answers.usage}
 
   ## License: 
-  ![License](https://img.shields.io/badge/License-${answers.license}-blue.svg "License Badge")
+  > Click on the link below to get information about the license:
+
+  > [License Info](https://opensource.org/licenses/${answers.license})
 
   ## Contributing: 
   > ${answers.constributing}

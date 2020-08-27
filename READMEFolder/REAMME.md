@@ -1,4 +1,6 @@
-# asdlfkj
+# README Generator
+
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
   # Table of Contents:
 
@@ -11,25 +13,27 @@
   - [Questions](#questions)
 
   ## Description: 
-  > asldfkj
+  > The user inputs their information and a professional Readme is then generated
 
   ## Installation: 
-  > 
+  > npm Install
 
   ## Usage: 
-  > asdfljk
+  > The user enters information prompted by node index.js in the terminal. The program will then generate a readme with specific information the user inputs.
 
   ## License: 
-  ![License](https://img.shields.io/badge/License-Apache-blue.svg "License Badge")
+  > Click on the link below to get information about the license:
+
+  > [License Info](https://opensource.org/licenses/MIT)
 
   ## Contributing: 
-  > asdlfjk
+  > They would need to do a pull request as I am the owner of the repo
 
   ## Tests: 
-  > asdflj
+  > node index.js
 
   ## Questions: 
-  > If you have any questions please email me at: adflkj
+  > If you have any questions please email me at: scottdouglas238@gmail.com
   
-  > Feel free to check out my GitHub at: [dadsf](https://github.com/scottdouglas238 "Scott Douglas GitHub")
+  > Feel free to check out my GitHub at: [scottdouglas238](https://github.com/scottdouglas238 "Scott Douglas GitHub")
   
