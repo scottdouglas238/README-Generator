@@ -36,7 +36,7 @@ function generateReadMe(answers) {
   ## Questions: 
   > If you have any questions please email me at: ${answers.email}
   
-  > Feel free to check out my GitHub at: [${answers.username}](https://github.com/scottdouglas238 "Scott Douglas GitHub")
+  > Feel free to check out my GitHub at: [${answers.username}](https://github.com/${answers.username} "GitHub")
   `;
   }
   

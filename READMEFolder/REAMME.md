@@ -13,13 +13,13 @@
   - [Questions](#questions)
 
   ## Description: 
-  > The user inputs their information and a professional Readme is then generated
+  > The user inputs information through the terminal and the program will generate a README with the information the user entered. 
 
   ## Installation: 
-  > npm Install
+  > npm install
 
   ## Usage: 
-  > The user enters information prompted by node index.js in the terminal. The program will then generate a readme with specific information the user inputs.
+  > The user must open up the terminal, enter node index.js, and answer the questions they are asked. Upon completion, a professional README will generate.
 
   ## License: 
   > Click on the link below to get information about the license:
@@ -27,7 +27,7 @@
   > [License Info](https://opensource.org/licenses/MIT)
 
   ## Contributing: 
-  > They would need to do a pull request as I am the owner of the repo
+  > Nothing
 
   ## Tests: 
   > node index.js
@@ -35,5 +35,5 @@
   ## Questions: 
   > If you have any questions please email me at: scottdouglas238@gmail.com
   
-  > Feel free to check out my GitHub at: [scottdouglas238](https://github.com/scottdouglas238 "Scott Douglas GitHub")
+  > Feel free to check out my GitHub at: [scottdouglas238](https://github.com/scottdouglas238 "GitHub")
   
